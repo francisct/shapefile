@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "path": ".",
+      "node:path": ".",
       "file_exclude_patterns": [
         "*.sublime-workspace"
       ],

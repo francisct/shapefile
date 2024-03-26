@@ -1,4 +1,4 @@
-var fs = require("fs"),
+var fs = require("node:fs"),
     tape = require("tape"),
     shapefile = require("../");
 
